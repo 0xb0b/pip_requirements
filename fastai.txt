@@ -1,0 +1,17 @@
+# fastai machine learning course
+
+numpy
+scipy
+
+scikit-learn
+
+fastai
+
+# requires nodejs for extensions
+jupyterlab
+
+# kaggle api
+kaggle
+
+xgboost
+
